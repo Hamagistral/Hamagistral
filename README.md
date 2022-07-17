@@ -1,5 +1,5 @@
 <h1>
-  Hi there 👋
+  Hi there 👋 
 </h1>
 
 <div id="header" align="center">
@@ -19,13 +19,13 @@
 
 ### :man_technologist: About Me :
 
-👨‍🎓 I am a Data Science Student from Morocco.
+I am a Data Science Student from Morocco.
 
-- :telescope: I’m currently an Intern as a Data Analyst.
-
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I work currently as an Intern Data Analyst.
 
 - :zap: In my free time, I enjoy writing tech blog articles about new things I have learned.
+
+- :seedling: “The beautiful thing about learning is that nobody can take it away from you.”
 
 - :mailbox: Contact me via : [![Linkedin Badge](https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hamza-elbelghiti/])
 
