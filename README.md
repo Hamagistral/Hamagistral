@@ -21,7 +21,7 @@
 
 I am a Data Science Student from Morocco.
 
-- :telescope: I work currently as an Intern Data Analyst.
+- :telescope: I am looking for a Data Internship.
 
 - :zap: In my free time, I enjoy writing tech blog articles about new things I have learned.
 
