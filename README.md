@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" autoplay/>
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/hamza-elbelghiti/">
