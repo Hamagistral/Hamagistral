@@ -3,7 +3,9 @@
 </h1>
 
 <div id="header" align="center">
-  ![3271001](https://user-images..com/66017329/181665723-8e23afb4-08de-4659-b320-d8dee464a465.png)
+   <div id="header" align="center">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+  </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/hamza-elbelghiti/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
