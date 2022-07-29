@@ -3,7 +3,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271001.png?token=exp=1658089010~hmac=21c66255077806af4f24868a51014c1e" width="100"/>
+  ![3271001](https://user-images..com/66017329/181665723-8e23afb4-08de-4659-b320-d8dee464a465.png)
   <div id="badges">
     <a href="https://www.linkedin.com/in/hamza-elbelghiti/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
