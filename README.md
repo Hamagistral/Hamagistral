@@ -13,7 +13,7 @@
     <a href="https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=HamzaElBelghiti">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://hamagistral.netlify.app/">
+    <a href="https://hamagistral.me/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
