@@ -1,61 +1,53 @@
 <h1>
-  Hi there 👋 
+  👋 Hi,  I'm Hamza 
 </h1>
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" autoplay/>
+    <img src="https://user-images.githubusercontent.com/66017329/235193568-67bd640e-afc9-4964-a63a-c628e3c82206.png" width="100%" />
   </div>
+  <br>
   <div id="badges">
+    <a href="https://hamagistral.me/">
+      <img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://medium.com/@hamza.lbelghiti">
+      <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/hamza-elbelghiti/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/watch?v=B4FXn7qWPaQ&ab_channel=HamzaElBelghiti">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://hamagistral.me/">
-      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Hamagistral&style=flat-square&color=blue" alt=""/>
+
+  <h5> Data Science & Engineering Student | Machine Learning Enthusiast | Web Developer </h5>
+  
 </div>
 
 ---
 
-### :man_technologist: About Me :
+#### :man_technologist: About Me :
 
-I am a Data Science Student from Morocco.
-
-- :telescope: I am looking for a Data Internship.
-
-- :zap: In my free time, I enjoy writing tech blog articles about new things I have learned.
-
-- :seedling: “The beautiful thing about learning is that nobody can take it away from you.”
-
-- :mailbox: Contact me via : [![Linkedin Badge](https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hamza-elbelghiti/])
+I am a Master's student in Data Science and Engineering, with a background in Applied Mathematics. My passion is the intersection of data and AI. I have completed several online courses and have obtained some certificates in data science and machine learning. I have completed several projects related to data analysis and visualization, and I am always looking for new opportunities to learn and grow as a data scientist. I am proactive, hardworking and eager to apply my knowledge to real-world problems.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+##### 💻 Languages : 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+##### 🌐 Web Dev : 
+
+##### 🤖 Data & ML : 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 
 ---
+![](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
 
 ### :fire: My Stats :
 
