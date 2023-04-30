@@ -22,7 +22,7 @@
     </a>
   </div>
 
-  <h5> Data Science & Engineering Student | Machine Learning Enthusiast | Web Developer </h5>
+  <h4> Data Science & Engineering Student | Machine Learning Enthusiast | Web Developer </h5>
   
   <br>
   <img src="https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue"/>
@@ -40,16 +40,16 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
 <div id="header" >
   <div id="badges">
     <a href="https://www.freecodecamp.org/certification/magistral/machine-learning-with-python-v7">
-      <img src="https://img.shields.io/badge/freeCodeCamp-000000?style=flat&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23" alt="FreeCodeCamp"/>
+      <img src="https://img.shields.io/badge/freeCodeCamp%20Machine%20Learning-000000?style=flat&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23" alt="FreeCodeCamp"/>
     </a>
     <a href="https://www.datacamp.com/statement-of-accomplishment/track/2e70dcf23aaec624fcf404885f586c575f718c91">
-      <img src="https://img.shields.io/badge/DataCamp-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
+      <img src="https://img.shields.io/badge/DataCamp%20Data%20Scientist-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
     </a>
     <a href="https://certificates.cs50.io/12412c32-3309-47da-9176-0ca1a2bc353b.pdf?size=A4">
-      <img src="https://img.shields.io/badge/CS50%20WEB-000000?style=flat&logo=edx&logoColor=white&labelColor=0A0A23" alt="CS50"/>
+      <img src="https://img.shields.io/badge/Harvard%20CS50%20WEB-000000?style=flat&logo=edx&logoColor=white&labelColor=0A0A23" alt="CS50"/>
     </a>
     <a href="https://www.coursera.org/account/accomplishments/verify/7HWKX2PPAA8H">
-      <img src="https://img.shields.io/badge/Coursera-000000?style=flat&logo=coursera&logoColor=white&labelColor=017CEE" alt="Cpursera"/>
+      <img src="https://img.shields.io/badge/Deeplearning.ai%20Deep%20Learning-000000?style=flat&logo=coursera&logoColor=white&labelColor=017CEE" alt="Cpursera"/>
     </a>
    </div>
 </div>
@@ -67,11 +67,10 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
 
 ##### 🌐 Web Dev : 
 
-
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&logoColor=ffffff&labelColor=3178C6)
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&logoColor=ffffff&labelColor=3178C6)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=06B6D4)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff&labelColor=000000)
@@ -83,28 +82,30 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
 
 ##### 🤖 Data & ML : 
 
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
+![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
-![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
+
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
+![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
 ![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=E97627)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
 
 ##### ☁️ Cloud : 
 
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=white&labelColor=FFCA28)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=flat&logo=google-Cloud&logoColor=white&labelColor=4285F4)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=white&labelColor=FFCA28)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=white&labelColor=0078D4)
 
 ##### 🔨 Tools : 
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=Git&logoColor=white&labelColor=2496ED)
 
