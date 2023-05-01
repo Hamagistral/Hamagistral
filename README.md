@@ -86,15 +86,14 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
 ![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
-
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
 ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
 ![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=E97627)
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
 
 ##### ☁️ Cloud : 
 
@@ -106,16 +105,19 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
 ##### 🔨 Tools : 
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=Git&logoColor=white&labelColor=2496ED)
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=gptube&theme=github_dark)](https://github.com/hamagistral/gptube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=brandgenie&theme=github_dark)](https://github.com/hamagistral/brandgenie)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamagistral&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Hamagistral GitHub stats](https://github-readme-stats.vercel.app/api?username=hamagistral&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=gptube&theme=github_dark&hide_border=true)](https://github.com/hamagistral/gptube)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=brandgenie&theme=github_dark&hide_border=true)](https://github.com/hamagistral/brandgenie)
+
+
 
 
 
