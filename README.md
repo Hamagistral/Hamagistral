@@ -1,5 +1,5 @@
 <h1>
-  👋 Hi,  I'm Hamza 
+  👋🏻 Hi,  I'm Hamza 
 </h1>
 
 <div id="header" align="center">
@@ -49,7 +49,7 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
       <img src="https://img.shields.io/badge/Harvard%20CS50%20WEB-000000?style=flat&logo=edx&logoColor=white&labelColor=0A0A23" alt="CS50"/>
     </a>
     <a href="https://www.coursera.org/account/accomplishments/verify/7HWKX2PPAA8H">
-      <img src="https://img.shields.io/badge/Deeplearning.ai%20Deep%20Learning-000000?style=flat&logo=coursera&logoColor=white&labelColor=017CEE" alt="Cpursera"/>
+      <img src="https://img.shields.io/badge/DeepLearning.AI%20Deep%20Learning-000000?style=flat&logo=coursera&logoColor=white&labelColor=017CEE" alt="Cpursera"/>
     </a>
    </div>
 </div>
@@ -76,6 +76,7 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff&labelColor=000000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=ffffff&labelColor=339933)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=ffffff&labelColor=009688)
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Fastapi](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
 
