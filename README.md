@@ -111,11 +111,11 @@ I am a Master's student in Data Science and Engineering, with a background in Ap
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=Git&logoColor=white&labelColor=2496ED)
 
 ---
-
-![Hamagistral GitHub stats](https://github-readme-stats.vercel.app/api?username=hamagistral&show_icons=true&theme=github_dark&hide_border=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=gptube&theme=github_dark&hide_border=true)](https://github.com/hamagistral/gptube)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=brandgenie&theme=github_dark&hide_border=true)](https://github.com/hamagistral/brandgenie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamagistral&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/hamagistral)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)
+
 
 
 
