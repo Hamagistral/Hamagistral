@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/66017329/235193568-67bd640e-afc9-4964-a63a-c628e3c82206.png" width="100%" />
+    <img src="https://github.com/Hamagistral/GPTube/assets/66017329/16c4c45f-697e-4963-bd8f-e3ff5025bfa9" width="100%" />
   </div>
   <br>
   <div id="badges">
