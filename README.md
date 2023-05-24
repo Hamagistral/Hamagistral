@@ -33,7 +33,11 @@
 
 #### :man_technologist: About Me :
 
-I am a Master's student in Data Science and Engineering, with a background in Applied Mathematics. My passion is the intersection of data and AI. I have completed several online courses and have obtained some certificates in data science and machine learning. I have completed several projects related to data analysis and visualization, and I am always looking for new opportunities to learn and grow as a data scientist. I am proactive, hardworking and eager to apply my knowledge to real-world problems.
+The world is one big data problem.
+
+This quote encapsulates the reason and passion that has driven my journey to dive deep into the data science and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.
+
+My enthusiasm lies in bridging the gap between complex data and practical applications that have a positive impact on people's lives. It thrills me to envision, design, and develop web applications that seamlessly integrate data-driven solutions, ultimately empowering individuals and organizations to make informed decisions. 
 
 #### 🎓 Certifications :
 
