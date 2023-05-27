@@ -9,7 +9,7 @@
   <br>
   <div id="badges">
     <a href="https://hamagistral.me/">
-      <img src="https://img.shields.io/badge/portfolio-29B5E8?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/portfolio-4366f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://medium.com/@hamza.lbelghiti">
       <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
@@ -38,6 +38,8 @@ The world is one big data problem.
 This quote encapsulates the reason and passion that has driven my journey to dive deep into the data science and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.
 
 My enthusiasm lies in bridging the gap between complex data and practical applications that have a positive impact on people's lives. It thrills me to envision, design, and develop web applications that seamlessly integrate data-driven solutions, ultimately empowering individuals and organizations to make informed decisions. 
+
+My expertise spans Python, R, SQL, machine learning, data analysis, visualization, and designing robust data pipelines. I'm also experienced with some web frameworks and libraries such as MERN stack, Django, Nextjs, and Streamlit.
 
 #### 🎓 Certifications :
 
