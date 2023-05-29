@@ -35,7 +35,7 @@
 
 The world is one big data problem.
 
-This quote encapsulates the reason and passion that has driven my journey to dive deep into the data science and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.
+This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.
 
 My enthusiasm lies in bridging the gap between complex data and practical applications that have a positive impact on people's lives. It thrills me to envision, design, and develop web applications that seamlessly integrate data-driven solutions, ultimately empowering individuals and organizations to make informed decisions. 
 
