@@ -33,7 +33,7 @@
 
 #### :man_technologist: About Me :
 
-The world is one big data problem.
+> The world is one big data problem.
 
 This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.
 
@@ -68,6 +68,7 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=ffffff&labelColor=DC322F)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=ffffff&labelColor=276DC3)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB)
 
@@ -110,15 +111,16 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 
 ##### 🔨 Tools : 
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=white&labelColor=5835CC)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=Git&logoColor=white&labelColor=2496ED)
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=gptube&theme=github_dark&hide_border=true)](https://github.com/hamagistral/gptube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=brandgenie&theme=github_dark&hide_border=true)](https://github.com/hamagistral/brandgenie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=de-zoomcamp-ui&theme=github_dark&hide_border=true)](https://github.com/Hamagistral/de-zoomcamp-ui)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamagistral&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/hamagistral)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)
 
