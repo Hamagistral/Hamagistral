@@ -45,6 +45,9 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 
 <div id="header" >
   <div id="badges">
+    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a16e1ccee0351de8aa3473f336d4e19318704a8f">
+      <img src="https://img.shields.io/badge/DataCamp%20Data%20Engineer-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
+    </a>
     <a href="https://www.freecodecamp.org/certification/magistral/machine-learning-with-python-v7">
       <img src="https://img.shields.io/badge/freeCodeCamp%20Machine%20Learning-000000?style=flat&logo=freeCodeCamp&logoColor=white&labelColor=0A0A23" alt="FreeCodeCamp"/>
     </a>
