@@ -67,13 +67,31 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 
 #### :hammer_and_wrench: Languages and Tools :
 
-##### 💻 Languages : 
+##### 💻 Programming : 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=ffffff&labelColor=DC322F)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=ffffff&labelColor=276DC3)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB)
+
+##### 💾 Databases : 
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
+![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
+![PlanetScale](https://img.shields.io/badge/planetscale-000000?style=flat&logo=planetscale&logoColor=000000&labelColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
+
+##### 🤖 Data & ML : 
+
+![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
+![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
 
 ##### 🌐 Web Dev : 
 
@@ -82,28 +100,12 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&logoColor=ffffff&labelColor=3178C6)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=06B6D4)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff&labelColor=000000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=ffffff&labelColor=339933)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=ffffff&labelColor=009688)
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Fastapi](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
-
-
-##### 🤖 Data & ML : 
-
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
-![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
-![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
-![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=E97627)
 
 ##### ☁️ Cloud : 
 
@@ -119,7 +121,8 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=white&labelColor=5835CC)
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=Git&logoColor=white&labelColor=2496ED)
+![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
+![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira&logoColor=white&labelColor=0A0FFF)
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=gptube&theme=github_dark&hide_border=true)](https://github.com/hamagistral/gptube)
