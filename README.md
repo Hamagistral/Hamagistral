@@ -33,13 +33,13 @@
 
 #### :man_technologist: About Me :
 
-> The world is one big data problem.
+> « The world is one big data problem. »
 
 This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. Having a background in applied mathematics, I am currently enrolled in a data science and engineering master's degree.
 
-My enthusiasm lies in bridging the gap between complex data and practical applications that have a positive impact on people's lives. It thrills me to envision, design, and develop web applications that seamlessly integrate data-driven solutions, ultimately empowering individuals and organizations to make informed decisions. 
+My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for insightful analysis.
 
-My expertise spans Python, R, SQL, machine learning, data analysis, visualization, and designing robust data pipelines. I'm also experienced with some web frameworks and libraries such as MERN stack, Django, Nextjs, and Streamlit.
+My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Terraform, Airflow, Spark, and cloud platforms like GCP, AWS, and Azure. I'm also experienced with some web frameworks and libraries such as Django, Nextjs, RESTful APIs, and Streamlit.
 
 #### 🎓 Certifications :
 
