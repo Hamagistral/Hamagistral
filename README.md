@@ -130,6 +130,8 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=gptube&theme=github_dark&hide_border=true)](https://github.com/hamagistral/gptube)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=de-zoomcamp-ui&theme=github_dark&hide_border=true)](https://github.com/Hamagistral/de-zoomcamp-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=OnlineRetail-DataEng&theme=github_dark&hide_border=true)](https://lookerstudio.google.com/u/0/reporting/da5da0af-4be0-4f7d-a84b-f7c2892df612)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hamagistral&repo=Azure-AW&theme=github_dark&hide_border=true)](https://github.com/Hamagistral/Azure-AW)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamagistral&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/hamagistral)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamagistral&theme=github_dark&hide_border=true)
 
