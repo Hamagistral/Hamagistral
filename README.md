@@ -34,7 +34,7 @@
 
 ---
 
-#### :man_technologist: About Me :
+#### 👨‍💻 About Me :
 
 > « The world is one big data problem. »
 
