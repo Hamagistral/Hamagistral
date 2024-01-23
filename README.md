@@ -25,7 +25,6 @@
   <br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Science+%26+Engineering+Student;Aspiring+Data+Engineer;Web+Developer)](https://git.io/typing-svg)
-  
 
   ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
   [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hamagistral?tab=followers)
