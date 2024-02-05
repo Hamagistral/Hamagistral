@@ -24,7 +24,7 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Engineer+Intern+@Blent.ai;Data+Engineer+;Web+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Engineer+Intern+@Blent.ai+👨🏻‍💻;AI+Developer+🤖;Web+Developer+💻)](https://git.io/typing-svg)
 
   ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
   [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hamagistral?tab=followers)
@@ -41,7 +41,7 @@ This quote encapsulates the reason and passion that has driven my journey to div
 
 My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for insightful analysis.
 
-My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Terraform, Airflow, Spark, and cloud platforms like GCP, AWS, and Azure. I'm also experienced with some web frameworks and libraries such as Django, Nextjs, RESTful APIs, and Streamlit.
+My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Terraform, Airflow, Spark, dbt and cloud platforms like GCP, AWS, and Azure. I'm also experienced with some web frameworks and libraries such as Django, Nextjs, RESTful APIs, and Streamlit.
 
 #### 🎓 Certifications :
 
