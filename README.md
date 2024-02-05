@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://github.com/Hamagistral/GPTube/assets/66017329/16c4c45f-697e-4963-bd8f-e3ff5025bfa9" width="100%" />
+    <img src="https://github.com/Hamagistral/Ecom-FrontProject/assets/66017329/f067decf-db77-4185-aa03-3424e234c440" width="100%" />
   </div>
   <br>
   <div id="badges">
@@ -24,7 +24,7 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Science+%26+Engineering+Student;Aspiring+Data+Engineer;Web+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Engineer+Intern+@Blent.ai;Data+Engineer+;Web+Developer)](https://git.io/typing-svg)
 
   ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
   [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hamagistral?tab=followers)
