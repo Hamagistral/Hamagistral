@@ -4,11 +4,11 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://github.com/Hamagistral/Ecom-FrontProject/assets/66017329/f067decf-db77-4185-aa03-3424e234c440" width="100%" />
+    <img src="https://i.postimg.cc/Pfv2SjwW/linkedinbanner-blent.png" width="100%" />
   </div>
   <br>
   <div id="badges">
-    <a href="https://hamagistral.me/">
+    <a href="https://hamagistral.dev/">
       <img src="https://img.shields.io/badge/portfolio-4366f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://medium.com/@hamza.lbelghiti">
@@ -24,7 +24,7 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Engineer+Intern+@Blent.ai+👨🏻‍💻;AI+Developer+🤖;Web+Developer+💻)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Analytics+&+AI+Engineer+@Blent.ai+👨🏻‍💻;Web+Developer+💻)](https://git.io/typing-svg)
 
   ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
   [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hamagistral?tab=followers)
@@ -41,12 +41,23 @@ This quote encapsulates the reason and passion that has driven my journey to div
 
 My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to streamline data workflows, ensure data quality, and make data accessible for insightful analysis.
 
-My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Terraform, Airflow, Spark, dbt and cloud platforms like GCP, AWS, and Azure. I'm also experienced with some web frameworks and libraries such as Django, Nextjs, RESTful APIs, and Streamlit.
+My expertise spans Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Terraform, Airflow, Spark, dbt and cloud platforms like GCP, AWS, and Azure. I'm also experienced with some web frameworks and libraries such as Django, Nextjs, RESTful APIs, and Streamlit.« The world is one big data problem. »
+
+This quote encapsulates the reason and passion that has driven my journey to dive deep into the data and AI world. With a background in data science and engineering, I am currently enrolled in a MIAGE master's degree with a specialization in Data Engineering.
+
+My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As a data engineer, my goal is to create the foundations that support innovative data solutions, empowering organizations to harness the full potential of their data. I'm driven to organize data workflows, ensure data quality, and make data accessible for insightful analysis.
+
+I am experienced with Python, R, SQL, machine learning, data analysis, visualization, designing and implementing data pipelines with technologies like Terraform, Airbyte, Mage/Airflow, dbt, Spark, and cloud platforms like GCP (Certified GCP Professional Data Engineer) and AWS. I'm also experienced with some web frameworks and libraries such as Django, Nextjs, FastAPI, and Streamlit.
+
+I am also well-versed in GenAI tools and methods, utilizing various LLMs both locally with HuggingFace and on the cloud via the OpenAI API. I am adept at using tools like Langchain, CrewAI and n8n, and I have experience with vector databases such as FAISS, Chroma, and Pinecone.
 
 #### 🎓 Certifications :
 
 <div id="header" >
   <div id="badges">
+    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a16e1ccee0351de8aa3473f336d4e19318704a8f">
+      <img src="https://img.shields.io/badge/GCP%20Professional%20Data%20Engineer-000000?style=flat&logo=GoogleCloud&logoColor=white&labelColor=017CEE" alt="GCP"/>
+    </a>
     <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a16e1ccee0351de8aa3473f336d4e19318704a8f">
       <img src="https://img.shields.io/badge/DataCamp%20Data%20Engineer-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
     </a>
@@ -60,7 +71,7 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
       <img src="https://img.shields.io/badge/Harvard%20CS50%20WEB-000000?style=flat&logo=edx&logoColor=white&labelColor=0A0A23" alt="CS50"/>
     </a>
     <a href="https://www.coursera.org/account/accomplishments/verify/7HWKX2PPAA8H">
-      <img src="https://img.shields.io/badge/DeepLearning.AI%20Deep%20Learning-000000?style=flat&logo=coursera&logoColor=white&labelColor=017CEE" alt="Cpursera"/>
+      <img src="https://img.shields.io/badge/DeepLearning.AI%20Deep%20Learning-000000?style=flat&logo=coursera&logoColor=white&labelColor=017CEE" alt="Coursera"/>
     </a>
    </div>
 </div>
@@ -80,8 +91,10 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ##### 💾 Databases : 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=oracle&logoColor=white&labelColor=D00000)
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase&logoColor=ffffff&labelColor=47A248)
 ![PlanetScale](https://img.shields.io/badge/planetscale-000000?style=flat&logo=planetscale&logoColor=000000&labelColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
@@ -89,6 +102,7 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ##### 🤖 Data & ML : 
 
 ![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-000000?style=flat&logo=huggingface&logoColor=white&labelColor=316192)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
@@ -121,7 +135,6 @@ My expertise spans Python, R, SQL, machine learning, data analysis, visualizatio
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
 ![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=white&labelColor=5835CC)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 ![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira&logoColor=white&labelColor=0A0FFF)
